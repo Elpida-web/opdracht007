@@ -1,0 +1,41 @@
+.box-1 {
+    border: 5px solid rgb(146, 228, 146);
+    margin: 20px;
+    padding: 10px 5px 10px 10px;
+}
+
+.center-title {
+    color: red;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.navigation-links li { 
+    display: inline;
+padding-right: 10px
+}
+
+    .stamp {
+        height: 414px;
+        background: #fff url(george.jpg) no-repeat;
+        border: 12px dashed #1b1a19; }
+
+               
+
+
+     @media screen and (max-width: 1024px) {
+                body {
+                            font-size: larger;
+                            line-height: 20px;
+                            background-color: lightseagreen;
+                            color: white;
+                       }
+                      
+               }
+        
+
+    .container-1 input { 
+        display: block;
+        width: 30%;
+        margin: 25px 100px 25px 5px;
+    }
